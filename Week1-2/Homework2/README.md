@@ -8,16 +8,16 @@
 - DELETE Request For Medicine
 
 ## Get All Medicines
-![Get](C:\Users\Seda\Desktop\Week1-2\Homework2\Screenshots\get.jpg)
+![Get](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Week1-2/Homework2/Screenshots/get.jpg)
 
 ## Get Medicine by Id
-![GetId](C:\Users\Seda\Desktop\Week1-2\Homework2\Screenshots\getId.jpg)
+![GetId](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Week1-2/Homework2/Screenshots/getId.jpg)
 
 ## Create New Medicine With Post
-![Post](C:\Users\Seda\Desktop\Week1-2\Homework2\Screenshots\post.jpg)
+![Post](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Week1-2/Homework2/Screenshots/post.jpg)
 
 ## Medicine Update With Put
-![Put](C:\Users\Seda\Desktop\Week1-2\Homework2\Screenshots\put.jpg)
+![Put](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Week1-2/Homework2/Screenshots/put.jpg)
 
 ## Deleting Medicine With Delete
-![Delete](C:\Users\Seda\Desktop\Week1-2\Homework2\Screenshots\delete.jpg)
+![Delete](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Week1-2/Homework2/Screenshots/delete.jpg)
