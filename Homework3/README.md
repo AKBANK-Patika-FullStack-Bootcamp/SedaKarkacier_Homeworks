@@ -12,6 +12,7 @@
 2. Features
     - Id (Primary Key)
     - Usage_Information
+    
 ![Ilk](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Homework3/Screenshots/1.jpg)
 
 ## Table "Medicine" and its contents:
