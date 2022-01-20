@@ -8,3 +8,6 @@
 
 ### 3. Finally, I called the medicine table using the get method with the token created.
 ![Token3](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Homework5/token3.jpg)
+
+### 4. Using paging
+![Paging](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Homework5/paging.jpg)
