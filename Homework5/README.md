@@ -1,4 +1,4 @@
-# Token creation for the Pharmacy Stock Web API project
+# Token and pagination usage in Pharmacy Stock Web API project
 
 ### 1. I created new contact with .../Auth/create
 ![Token1](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SedaKarkacier_Homeworks/blob/main/Homework5/token1.jpg)
